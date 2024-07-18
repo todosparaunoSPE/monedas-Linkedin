@@ -169,12 +169,12 @@ st.write("""
 """)
 
 
-#st.header("Informes")
-#st.write("""
-#1. Javier Horacio Pérez Ricárdez.
-#2. email: jahoperi@gmail.com
-#3. Celular: 993 291 3812
-#""")
+st.header("Informes")
+st.write("""
+1. Javier Horacio Pérez Ricárdez.
+2. email: jahoperi@gmail.com
+3. Celular: 993 291 3812
+""")
 
 # Copyright
-st.sidebar.text("© 2024 Todos los derechos reservados.")
+st.sidebar.text("© 2024 Todos los derechos reservados. Creado por jahoperi")
